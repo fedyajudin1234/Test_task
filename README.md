@@ -84,3 +84,4 @@ insert into Orders (Date, Amount, CustomerID) values ('2023/01/28', 554, 19);
 insert into Orders (Date, Amount, CustomerID) values ('2023/09/02', 6445, 7);
 insert into Orders (Date, Amount, CustomerID) values ('2023/05/14', 4701, 10);
 insert into Orders (Date, Amount, CustomerID) values ('2023/09/17', 2122, 16);
+(дополнительно файл с данными прикреплён к проекту)
